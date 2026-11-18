@@ -380,7 +380,7 @@ All rights reserved unless otherwise specified by the project owner.
 
   *Plan Better. Work Smarter. Build Together.*
 
-  Built with passion by **Ramaro**.
+  Built with passion by **Ramardo**.
 
   © 2026 Ramaro. All rights reserved.
 
